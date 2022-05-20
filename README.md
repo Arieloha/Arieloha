@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arieloha
-- 👀 I’m interested in ...?
-- 🌱 I’m currently learning at University of Toronto with major in computer engineering
-- 💞️ I’m looking to collaborate on whatever I am able to give a hand
-- 📫 How to reach me: xingyu.song@mail.utoronto.ca
+- 👋 Hi, I’m Ariel 👧🏻
+- 👀 I’m interested in ...? 🤔
+- 🌱 I’m currently studying computer engineering at University of Toronto 🤯 
+- 💞️ I’m looking to collaborate on whatever I am able to give a hand 🥳
+- 📫 xingyu.song@mail.utoronto.ca
 
 <!---
 Arieloha/Arieloha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
